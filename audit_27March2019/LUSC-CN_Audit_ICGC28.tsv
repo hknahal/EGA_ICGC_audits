@@ -1,0 +1,21 @@
+ICGC DCC Project Code	ICGC Submitted Donor ID	ICGC Submitted Specimen ID	ICGC Submitted Specimen Type	ICGC Submitted Sample ID	ICGC Submitted Sequencing Strategy	ICGC Raw Data Accession	DCC Submission File	PCAWG sample	EGA Study Accession	EGA Dataset Accession	EGA Library Strategy	EGA Experiment Accession	EGA ERX Accession	EGA ERS Accession	EGA Sample Accession	EGA Run Accession	EGA Analysis Accession	EGA Raw Sequence Filename	EGA File Accession	MD5 Checksum	Unencrypted Checksum	File Size	File Type	Matched DCC Sample ID	Paired-End	Insert Size	Aligned	Reference Genome	Donor Gender
+LUSC-CN	Lung_CH-LA1	Lung_CH-LA1T	Primary tumour - solid tissue	Lung_CH-LA1T	WGS	['EGAS00001001087']	ssm_m.txt.gz																	Lung_CH-LA1N					male
+LUSC-CN	Lung_CH-LA1	Lung_CH-LA1N	Normal - blood derived	Lung_CH-LA1N	WGS	['EGAS00001001087']	ssm_m.txt.gz																						male
+LUSC-CN	Lung_CH-LA2	Lung_CH-LA2T	Primary tumour - solid tissue	Lung_CH-LA2T	WGS	['EGAS00001001087']	ssm_m.txt.gz																	Lung_CH-LA2N					male
+LUSC-CN	Lung_CH-LA2	Lung_CH-LA2N	Normal - blood derived	Lung_CH-LA2N	WGS	['EGAS00001001087']	ssm_m.txt.gz																						male
+LUSC-CN	Lung_CH-LA3	Lung_CH-LA3T	Primary tumour - solid tissue	Lung_CH-LA3T	WGS	['EGAS00001001087']	ssm_m.txt.gz																	Lung_CH-LA3N					female
+LUSC-CN	Lung_CH-LA3	Lung_CH-LA3N	Normal - blood derived	Lung_CH-LA3N	WGS	['EGAS00001001087']	ssm_m.txt.gz																						female
+LUSC-CN	Lung_CH-LA4	Lung_CH-LA4T	Primary tumour - solid tissue	Lung_CH-LA4T	WGS	['EGAS00001001087']	ssm_m.txt.gz																	Lung_CH-LA4N					female
+LUSC-CN	Lung_CH-LA4	Lung_CH-LA4N	Normal - blood derived	Lung_CH-LA4N	WGS	['EGAS00001001087']	ssm_m.txt.gz																						female
+LUSC-CN	Lung_CH-LA5	Lung_CH-LA5T	Primary tumour - solid tissue	Lung_CH-LA5T	WGS	['EGAS00001001087']	ssm_m.txt.gz																	Lung_CH-LA5N					female
+LUSC-CN	Lung_CH-LA5	Lung_CH-LA5N	Normal - blood derived	Lung_CH-LA5N	WGS	['EGAS00001001087']	ssm_m.txt.gz																						female
+LUSC-CN	Lung_CH-LA6	Lung_CH-LA6T	Primary tumour - solid tissue	Lung_CH-LA6T	WGS	['EGAS00001001087']	ssm_m.txt.gz																	Lung_CH-LA6N					male
+LUSC-CN	Lung_CH-LA6	Lung_CH-LA6N	Normal - blood derived	Lung_CH-LA6N	WGS	['EGAS00001001087']	ssm_m.txt.gz																						male
+LUSC-CN	Lung_CH-LA7	Lung_CH-LA7T	Primary tumour - solid tissue	Lung_CH-LA7T	WGS	['EGAS00001001087']	ssm_m.txt.gz																	Lung_CH-LA7N					female
+LUSC-CN	Lung_CH-LA7	Lung_CH-LA7N	Normal - blood derived	Lung_CH-LA7N	WGS	['EGAS00001001087']	ssm_m.txt.gz																						female
+LUSC-CN	Lung_CH-LA8	Lung_CH-LA8T	Primary tumour - solid tissue	Lung_CH-LA8T	WGS	['EGAS00001001087']	ssm_m.txt.gz																	Lung_CH-LA8N					male
+LUSC-CN	Lung_CH-LA8	Lung_CH-LA8N	Normal - blood derived	Lung_CH-LA8N	WGS	['EGAS00001001087']	ssm_m.txt.gz																						male
+LUSC-CN	Lung_CH-LA9	Lung_CH-LA9T	Primary tumour - solid tissue	Lung_CH-LA9T	WGS	['EGAS00001001087']	ssm_m.txt.gz																	Lung_CH-LA9N					female
+LUSC-CN	Lung_CH-LA9	Lung_CH-LA9N	Normal - blood derived	Lung_CH-LA9N	WGS	['EGAS00001001087']	ssm_m.txt.gz																						female
+LUSC-CN	Lung_CH-LA10	Lung_CH-LA10T	Primary tumour - solid tissue	Lung_CH-LA10T	WGS	['EGAS00001001087']	ssm_m.txt.gz																	Lung_CH-LA10N					female
+LUSC-CN	Lung_CH-LA10	Lung_CH-LA10N	Normal - blood derived	Lung_CH-LA10N	WGS	['EGAS00001001087']	ssm_m.txt.gz																						female

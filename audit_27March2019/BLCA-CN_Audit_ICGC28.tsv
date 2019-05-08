@@ -1,0 +1,207 @@
+ICGC DCC Project Code	ICGC Submitted Donor ID	ICGC Submitted Specimen ID	ICGC Submitted Specimen Type	ICGC Submitted Sample ID	ICGC Submitted Sequencing Strategy	ICGC Raw Data Accession	DCC Submission File	PCAWG sample	EGA Study Accession	EGA Dataset Accession	EGA Library Strategy	EGA Experiment Accession	EGA ERX Accession	EGA ERS Accession	EGA Sample Accession	EGA Run Accession	EGA Analysis Accession	EGA Raw Sequence Filename	EGA File Accession	MD5 Checksum	Unencrypted Checksum	File Size	File Type	Matched DCC Sample ID	Paired-End	Insert Size	Aligned	Reference Genome	Donor Gender
+BLCA-CN	China_0002_B10	TCC_B10-Tumor	Primary tumour - solid tissue	B10-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B10-Blood					male
+BLCA-CN	China_0002_B10	TCC_B10-Blood	Normal - blood derived	B10-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B100	TCC_B100-Tumor	Primary tumour - solid tissue	B100-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B100-Blood					male
+BLCA-CN	China_0002_B100	TCC_B100-Blood	Normal - blood derived	B100-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B101	TCC_B101-Tumor	Primary tumour - solid tissue	B101-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B101-Blood					female
+BLCA-CN	China_0002_B101	TCC_B101-Blood	Normal - blood derived	B101-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						female
+BLCA-CN	China_0002_B102	TCC_B102-Tumor	Primary tumour - solid tissue	B102-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B102-Blood					male
+BLCA-CN	China_0002_B102	TCC_B102-Blood	Normal - blood derived	B102-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B103	TCC_B103-Tumor	Primary tumour - solid tissue	B103-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B103-Blood					male
+BLCA-CN	China_0002_B103	TCC_B103-Blood	Normal - blood derived	B103-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B104	TCC_B104-Tumor	Primary tumour - solid tissue	B104-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B104-Blood					male
+BLCA-CN	China_0002_B104	TCC_B104-Blood	Normal - blood derived	B104-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B104-0	TCC_B104-0-Tumor	Primary tumour - solid tissue	B104-0-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B104-0-Blood					male
+BLCA-CN	China_0002_B104-0	TCC_B104-0-Blood	Normal - blood derived	B104-0-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B105	TCC_B105-Tumor	Primary tumour - solid tissue	B105-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B105-Blood					male
+BLCA-CN	China_0002_B105	TCC_B105-Blood	Normal - blood derived	B105-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B105-0	TCC_B105-0-Tumor	Primary tumour - solid tissue	B105-0-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B105-0-Blood					male
+BLCA-CN	China_0002_B105-0	TCC_B105-0-Blood	Normal - blood derived	B105-0-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B105-1	TCC_B105-1-Tumor	Primary tumour - solid tissue	B105-1-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B105-1-Blood					male
+BLCA-CN	China_0002_B105-1	TCC_B105-1-Blood	Normal - blood derived	B105-1-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B106	TCC_B106-Tumor	Primary tumour - solid tissue	B106-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B106-Blood					male
+BLCA-CN	China_0002_B106	TCC_B106-Blood	Normal - blood derived	B106-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B107	TCC_B107-Tumor	Primary tumour - solid tissue	B107-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B107-Blood					male
+BLCA-CN	China_0002_B107	TCC_B107-Blood	Normal - blood derived	B107-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B109	TCC_B109-Tumor	Primary tumour - solid tissue	B109-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B109-Blood					male
+BLCA-CN	China_0002_B109	TCC_B109-Blood	Normal - blood derived	B109-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B11	TCC_B11-Tumor	Primary tumour - solid tissue	B11-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B11-Blood					male
+BLCA-CN	China_0002_B11	TCC_B11-Blood	Normal - blood derived	B11-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B110	TCC_B110-Tumor	Primary tumour - solid tissue	B110-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B110-Blood					male
+BLCA-CN	China_0002_B110	TCC_B110-Blood	Normal - blood derived	B110-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B111	TCC_B111-Tumor	Primary tumour - solid tissue	B111-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B111-Blood					male
+BLCA-CN	China_0002_B111	TCC_B111-Blood	Normal - blood derived	B111-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B112	TCC_B112-Tumor	Primary tumour - solid tissue	B112-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B112-Blood					male
+BLCA-CN	China_0002_B112	TCC_B112-Blood	Normal - blood derived	B112-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B114	TCC_B114-Tumor	Primary tumour - solid tissue	B114-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B114-Blood					male
+BLCA-CN	China_0002_B114	TCC_B114-Blood	Normal - blood derived	B114-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B13	TCC_B13-Tumor	Primary tumour - solid tissue	B13-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B13-Blood					male
+BLCA-CN	China_0002_B13	TCC_B13-Blood	Normal - blood derived	B13-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B14	TCC_B14-Tumor	Primary tumour - solid tissue	B14-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B14-Blood					male
+BLCA-CN	China_0002_B14	TCC_B14-Blood	Normal - blood derived	B14-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B15	TCC_B15-Tumor	Primary tumour - solid tissue	B15-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B15-Blood					male
+BLCA-CN	China_0002_B15	TCC_B15-Blood	Normal - blood derived	B15-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B16	TCC_B16-Tumor	Primary tumour - solid tissue	B16-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B16-Blood					male
+BLCA-CN	China_0002_B16	TCC_B16-Blood	Normal - blood derived	B16-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B18	TCC_B18-Tumor	Primary tumour - solid tissue	B18-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B18-Blood					male
+BLCA-CN	China_0002_B18	TCC_B18-Blood	Normal - blood derived	B18-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B19	TCC_B19-Tumor	Primary tumour - solid tissue	B19-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B19-Blood					male
+BLCA-CN	China_0002_B19	TCC_B19-Blood	Normal - blood derived	B19-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B21	TCC_B21-Tumor	Primary tumour - solid tissue	B21-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B21-Blood					male
+BLCA-CN	China_0002_B21	TCC_B21-Blood	Normal - blood derived	B21-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B22	TCC_B22-Tumor	Primary tumour - solid tissue	B22-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B22-Blood					male
+BLCA-CN	China_0002_B22	TCC_B22-Blood	Normal - blood derived	B22-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B23	TCC_B23-Tumor	Primary tumour - solid tissue	B23-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B23-Blood					male
+BLCA-CN	China_0002_B23	TCC_B23-Blood	Normal - blood derived	B23-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B24	TCC_B24-Tumor	Primary tumour - solid tissue	B24-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B24-Blood					male
+BLCA-CN	China_0002_B24	TCC_B24-Blood	Normal - blood derived	B24-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B25	TCC_B25-Tumor	Primary tumour - solid tissue	B25-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B25-Blood					male
+BLCA-CN	China_0002_B25	TCC_B25-Blood	Normal - blood derived	B25-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B34	TCC_B34-Tumor	Primary tumour - solid tissue	B34-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B34-Blood					male
+BLCA-CN	China_0002_B34	TCC_B34-Blood	Normal - blood derived	B34-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B35	TCC_B35-Tumor	Primary tumour - solid tissue	B35-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B35-Blood					male
+BLCA-CN	China_0002_B35	TCC_B35-Blood	Normal - blood derived	B35-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B37	TCC_B37-Tumor	Primary tumour - solid tissue	B37-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B37-Blood					male
+BLCA-CN	China_0002_B37	TCC_B37-Blood	Normal - blood derived	B37-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B41	TCC_B41-Tumor	Primary tumour - solid tissue	B41-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B41-Blood					male
+BLCA-CN	China_0002_B41	TCC_B41-Blood	Normal - blood derived	B41-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B43	TCC_B43-Tumor	Primary tumour - solid tissue	B43-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B43-Blood					male
+BLCA-CN	China_0002_B43	TCC_B43-Blood	Normal - blood derived	B43-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B45	TCC_B45-Tumor	Primary tumour - solid tissue	B45-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B45-Blood					male
+BLCA-CN	China_0002_B45	TCC_B45-Blood	Normal - blood derived	B45-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B47	TCC_B47-Tumor	Primary tumour - solid tissue	B47-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B47-Blood					male
+BLCA-CN	China_0002_B47	TCC_B47-Blood	Normal - blood derived	B47-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B5	TCC_B5-Tumor	Primary tumour - solid tissue	B5-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B5-Blood					male
+BLCA-CN	China_0002_B5	TCC_B5-Blood	Normal - blood derived	B5-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B50	TCC_B50-Tumor	Primary tumour - solid tissue	B50-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B50-Blood					male
+BLCA-CN	China_0002_B50	TCC_B50-Blood	Normal - blood derived	B50-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B52	TCC_B52-Tumor	Primary tumour - solid tissue	B52-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B52-Blood					male
+BLCA-CN	China_0002_B52	TCC_B52-Blood	Normal - blood derived	B52-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B54	TCC_B54-Tumor	Primary tumour - solid tissue	B54-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B54-Blood					male
+BLCA-CN	China_0002_B54	TCC_B54-Blood	Normal - blood derived	B54-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B55	TCC_B55-Tumor	Primary tumour - solid tissue	B55-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B55-Blood					male
+BLCA-CN	China_0002_B55	TCC_B55-Blood	Normal - blood derived	B55-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B56	TCC_B56-Tumor	Primary tumour - solid tissue	B56-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B56-Blood					male
+BLCA-CN	China_0002_B56	TCC_B56-Blood	Normal - blood derived	B56-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B57	TCC_B57-Tumor	Primary tumour - solid tissue	B57-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B57-Blood					female
+BLCA-CN	China_0002_B57	TCC_B57-Blood	Normal - blood derived	B57-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						female
+BLCA-CN	China_0002_B58	TCC_B58-Tumor	Primary tumour - solid tissue	B58-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B58-Blood					male
+BLCA-CN	China_0002_B58	TCC_B58-Blood	Normal - blood derived	B58-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B59	TCC_B59-Tumor	Primary tumour - solid tissue	B59-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B59-Blood					female
+BLCA-CN	China_0002_B59	TCC_B59-Blood	Normal - blood derived	B59-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						female
+BLCA-CN	China_0002_B59-0	TCC_B59-0-Tumor	Primary tumour - solid tissue	B59-0-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B59-0-Blood					male
+BLCA-CN	China_0002_B59-0	TCC_B59-0-Blood	Normal - blood derived	B59-0-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B59-1	TCC_B59-1-Tumor	Primary tumour - solid tissue	B59-1-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B59-1-Blood					male
+BLCA-CN	China_0002_B59-1	TCC_B59-1-Blood	Normal - blood derived	B59-1-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B59-3	TCC_B59-3-Tumor	Primary tumour - solid tissue	B59-3-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B59-3-Blood					male
+BLCA-CN	China_0002_B59-3	TCC_B59-3-Blood	Normal - blood derived	B59-3-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B60	TCC_B60-Tumor	Primary tumour - solid tissue	B60-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B60-Blood					female
+BLCA-CN	China_0002_B60	TCC_B60-Blood	Normal - blood derived	B60-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						female
+BLCA-CN	China_0002_B61	TCC_B61-Tumor	Primary tumour - solid tissue	B61-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B61-Blood					female
+BLCA-CN	China_0002_B61	TCC_B61-Blood	Normal - blood derived	B61-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						female
+BLCA-CN	China_0002_B62-0	TCC_B62-0-Tumor	Primary tumour - solid tissue	B62-0-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B62-0-Blood					male
+BLCA-CN	China_0002_B62-0	TCC_B62-0-Blood	Normal - blood derived	B62-0-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B63	TCC_B63-Tumor	Primary tumour - solid tissue	B63-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B63-Blood					male
+BLCA-CN	China_0002_B63	TCC_B63-Blood	Normal - blood derived	B63-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B64	TCC_B64-Tumor	Primary tumour - solid tissue	B64-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B64-Blood					male
+BLCA-CN	China_0002_B64	TCC_B64-Blood	Normal - blood derived	B64-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B65	TCC_B65-Tumor	Primary tumour - solid tissue	B65-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B65-Blood					male
+BLCA-CN	China_0002_B65	TCC_B65-Blood	Normal - blood derived	B65-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B66	TCC_B66-Tumor	Primary tumour - solid tissue	B66-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B66-Blood					male
+BLCA-CN	China_0002_B66	TCC_B66-Blood	Normal - blood derived	B66-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B66-0	TCC_B66-0-Tumor	Primary tumour - solid tissue	B66-0-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B66-0-Blood					female
+BLCA-CN	China_0002_B66-0	TCC_B66-0-Blood	Normal - blood derived	B66-0-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						female
+BLCA-CN	China_0002_B68	TCC_B68-Tumor	Primary tumour - solid tissue	B68-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B68-Blood					male
+BLCA-CN	China_0002_B68	TCC_B68-Blood	Normal - blood derived	B68-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B70	TCC_B70-Tumor	Primary tumour - solid tissue	B70-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B70-Blood					male
+BLCA-CN	China_0002_B70	TCC_B70-Blood	Normal - blood derived	B70-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B71	TCC_B71-Tumor	Primary tumour - solid tissue	B71-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B71-Blood					male
+BLCA-CN	China_0002_B71	TCC_B71-Blood	Normal - blood derived	B71-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B73	TCC_B73-Tumor	Primary tumour - solid tissue	B73-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B73-Blood					male
+BLCA-CN	China_0002_B73	TCC_B73-Blood	Normal - blood derived	B73-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B74	TCC_B74-Tumor	Primary tumour - solid tissue	B74-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B74-Blood					male
+BLCA-CN	China_0002_B74	TCC_B74-Blood	Normal - blood derived	B74-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B77	TCC_B77-Tumor	Primary tumour - solid tissue	B77-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B77-Blood					male
+BLCA-CN	China_0002_B77	TCC_B77-Blood	Normal - blood derived	B77-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B78	TCC_B78-Tumor	Primary tumour - solid tissue	B78-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B78-Blood					male
+BLCA-CN	China_0002_B78	TCC_B78-Blood	Normal - blood derived	B78-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B79	TCC_B79-Tumor	Primary tumour - solid tissue	B79-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B79-Blood					male
+BLCA-CN	China_0002_B79	TCC_B79-Blood	Normal - blood derived	B79-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B80	TCC_B80-Tumor	Primary tumour - solid tissue	B80-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B80-Blood					male
+BLCA-CN	China_0002_B80	TCC_B80-Blood	Normal - blood derived	B80-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B80-0	TCC_B80-0-Tumor	Primary tumour - solid tissue	B80-0-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B80-0-Blood					male
+BLCA-CN	China_0002_B80-0	TCC_B80-0-Blood	Normal - blood derived	B80-0-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B80-1	TCC_B80-1-Tumor	Primary tumour - solid tissue	B80-1-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B80-1-Blood					male
+BLCA-CN	China_0002_B80-1	TCC_B80-1-Blood	Normal - blood derived	B80-1-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B80-11	TCC_B80-11-Tumor	Primary tumour - solid tissue	B80-11-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B80-11-Blood					male
+BLCA-CN	China_0002_B80-11	TCC_B80-11-Blood	Normal - blood derived	B80-11-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B80-13	TCC_B80-13-Tumor	Primary tumour - solid tissue	B80-13-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B80-13-Blood					male
+BLCA-CN	China_0002_B80-13	TCC_B80-13-Blood	Normal - blood derived	B80-13-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B80-3	TCC_B80-3-Tumor	Primary tumour - solid tissue	B80-3-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B80-3-Blood					male
+BLCA-CN	China_0002_B80-3	TCC_B80-3-Blood	Normal - blood derived	B80-3-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B80-4	TCC_B80-4-Tumor	Primary tumour - solid tissue	B80-4-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B80-4-Blood					male
+BLCA-CN	China_0002_B80-4	TCC_B80-4-Blood	Normal - blood derived	B80-4-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B80-5	TCC_B80-5-Tumor	Primary tumour - solid tissue	B80-5-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B80-5-Blood					male
+BLCA-CN	China_0002_B80-5	TCC_B80-5-Blood	Normal - blood derived	B80-5-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B80-7	TCC_B80-7-Tumor	Primary tumour - solid tissue	B80-7-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B80-7-Blood					male
+BLCA-CN	China_0002_B80-7	TCC_B80-7-Blood	Normal - blood derived	B80-7-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B80-8	TCC_B80-8-Tumor	Primary tumour - solid tissue	B80-8-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B80-8-Blood					female
+BLCA-CN	China_0002_B80-8	TCC_B80-8-Blood	Normal - blood derived	B80-8-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						female
+BLCA-CN	China_0002_B81	TCC_B81-Tumor	Primary tumour - solid tissue	B81-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B81-Blood					male
+BLCA-CN	China_0002_B81	TCC_B81-Blood	Normal - blood derived	B81-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B81-1	TCC_B81-1-Tumor	Primary tumour - solid tissue	B81-1-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B81-1-Blood					male
+BLCA-CN	China_0002_B81-1	TCC_B81-1-Blood	Normal - blood derived	B81-1-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B81-2	TCC_B81-2-Tumor	Primary tumour - solid tissue	B81-2-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B81-2-Blood					male
+BLCA-CN	China_0002_B81-2	TCC_B81-2-Blood	Normal - blood derived	B81-2-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B82	TCC_B82-Tumor	Primary tumour - solid tissue	B82-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B82-Blood					male
+BLCA-CN	China_0002_B82	TCC_B82-Blood	Normal - blood derived	B82-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B83	TCC_B83-Tumor	Primary tumour - solid tissue	B83-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B83-Blood					female
+BLCA-CN	China_0002_B83	TCC_B83-Blood	Normal - blood derived	B83-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						female
+BLCA-CN	China_0002_B84	TCC_B84-Tumor	Primary tumour - solid tissue	B84-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B84-Blood					male
+BLCA-CN	China_0002_B84	TCC_B84-Blood	Normal - blood derived	B84-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B85-0	TCC_B85-0-Tumor	Primary tumour - solid tissue	B85-0-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B85-0-Blood					male
+BLCA-CN	China_0002_B85-0	TCC_B85-0-Blood	Normal - blood derived	B85-0-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B85-2	TCC_B85-2-Tumor	Primary tumour - solid tissue	B85-2-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B85-2-Blood					male
+BLCA-CN	China_0002_B85-2	TCC_B85-2-Blood	Normal - blood derived	B85-2-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B86	TCC_B86-Tumor	Primary tumour - solid tissue	B86-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B86-Blood					male
+BLCA-CN	China_0002_B86	TCC_B86-Blood	Normal - blood derived	B86-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B87	TCC_B87-Tumor	Primary tumour - solid tissue	B87-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B87-Blood					male
+BLCA-CN	China_0002_B87	TCC_B87-Blood	Normal - blood derived	B87-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B88	TCC_B88-Tumor	Primary tumour - solid tissue	B88-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B88-Blood					male
+BLCA-CN	China_0002_B88	TCC_B88-Blood	Normal - blood derived	B88-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B89-1	TCC_B89-1-Tumor	Primary tumour - solid tissue	B89-1-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B89-1-Blood					male
+BLCA-CN	China_0002_B89-1	TCC_B89-1-Blood	Normal - blood derived	B89-1-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B89-10	TCC_B89-10-Tumor	Primary tumour - solid tissue	B89-10-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B89-10-Blood					male
+BLCA-CN	China_0002_B89-10	TCC_B89-10-Blood	Normal - blood derived	B89-10-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B89-11	TCC_B89-11-Tumor	Primary tumour - solid tissue	B89-11-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B89-11-Blood					female
+BLCA-CN	China_0002_B89-11	TCC_B89-11-Blood	Normal - blood derived	B89-11-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						female
+BLCA-CN	China_0002_B89-12	TCC_B89-12-Tumor	Primary tumour - solid tissue	B89-12-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B89-12-Blood					female
+BLCA-CN	China_0002_B89-12	TCC_B89-12-Blood	Normal - blood derived	B89-12-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						female
+BLCA-CN	China_0002_B89-16	TCC_B89-16-Tumor	Primary tumour - solid tissue	B89-16-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B89-16-Blood					male
+BLCA-CN	China_0002_B89-16	TCC_B89-16-Blood	Normal - blood derived	B89-16-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B89-3	TCC_B89-3-Tumor	Primary tumour - solid tissue	B89-3-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B89-3-Blood					male
+BLCA-CN	China_0002_B89-3	TCC_B89-3-Blood	Normal - blood derived	B89-3-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B89-4	TCC_B89-4-Tumor	Primary tumour - solid tissue	B89-4-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B89-4-Blood					male
+BLCA-CN	China_0002_B89-4	TCC_B89-4-Blood	Normal - blood derived	B89-4-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B89-5	TCC_B89-5-Tumor	Primary tumour - solid tissue	B89-5-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B89-5-Blood					male
+BLCA-CN	China_0002_B89-5	TCC_B89-5-Blood	Normal - blood derived	B89-5-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B9	TCC_B9-Tumor	Primary tumour - solid tissue	B9-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B9-Blood					male
+BLCA-CN	China_0002_B9	TCC_B9-Blood	Normal - blood derived	B9-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B90	TCC_B90-Tumor	Primary tumour - solid tissue	B90-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B90-Blood					male
+BLCA-CN	China_0002_B90	TCC_B90-Blood	Normal - blood derived	B90-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B92	TCC_B92-Tumor	Primary tumour - solid tissue	B92-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B92-Blood					male
+BLCA-CN	China_0002_B92	TCC_B92-Blood	Normal - blood derived	B92-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B96	TCC_B96-Tumor	Primary tumour - solid tissue	B96-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B96-Blood					male
+BLCA-CN	China_0002_B96	TCC_B96-Blood	Normal - blood derived	B96-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B98	TCC_B98-Tumor	Primary tumour - solid tissue	B98-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B98-Blood					male
+BLCA-CN	China_0002_B98	TCC_B98-Blood	Normal - blood derived	B98-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B99	TCC_B99-Tumor	Primary tumour - solid tissue	B99-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B99-Blood					female
+BLCA-CN	China_0002_B99	TCC_B99-Blood	Normal - blood derived	B99-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						female
+BLCA-CN	China_0002_B8	TCC_B8-Tumor	Primary tumour - solid tissue	B8-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B8-Blood					male
+BLCA-CN	China_0002_B8	TCC_B8-Blood	Normal - blood derived	B8-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B2	TCC_B2-Tumor	Primary tumour - solid tissue	B2-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B2-Blood					male
+BLCA-CN	China_0002_B2	TCC_B2-Blood	Normal - blood derived	B2-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B20	TCC_B20-Tumor	Primary tumour - solid tissue	B20-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B20-Blood					male
+BLCA-CN	China_0002_B20	TCC_B20-Blood	Normal - blood derived	B20-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male
+BLCA-CN	China_0002_B17	TCC_B17-Tumor	Primary tumour - solid tissue	B17-Tumor	WXS	['EGAS00001000677']	ssm_m.txt.gz																	B17-Blood					male
+BLCA-CN	China_0002_B17	TCC_B17-Blood	Normal - blood derived	B17-Blood	WXS	['EGAS00001000677']	ssm_m.txt.gz																						male

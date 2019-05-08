@@ -1,0 +1,21 @@
+ICGC DCC Project Code	ICGC Submitted Donor ID	ICGC Submitted Specimen ID	ICGC Submitted Specimen Type	ICGC Submitted Sample ID	ICGC Submitted Sequencing Strategy	ICGC Raw Data Accession	DCC Submission File	PCAWG sample	EGA Study Accession	EGA Dataset Accession	EGA Library Strategy	EGA Experiment Accession	EGA ERX Accession	EGA ERS Accession	EGA Sample Accession	EGA Run Accession	EGA Analysis Accession	EGA Raw Sequence Filename	EGA File Accession	MD5 Checksum	Unencrypted Checksum	File Size	File Type	Matched DCC Sample ID	Paired-End	Insert Size	Aligned	Reference Genome	Donor Gender
+RECA-CN	China_0002_K44	ccRCC_K44-Tumor	Primary tumour - solid tissue	K44-Tumor	WXS	['EGAS00001000676']	ssm_m.txt.gz																	K44-Blood					female
+RECA-CN	China_0002_K44	ccRCC_K44-Blood	Normal - blood derived	K44-Blood	WXS	['EGAS00001000676']	ssm_m.txt.gz																						female
+RECA-CN	China_0002_K20	ccRCC_K20-Tumor	Primary tumour - solid tissue	K20-Tumor	WXS	['EGAS00001000676']	ssm_m.txt.gz																	K20-Blood					male
+RECA-CN	China_0002_K20	ccRCC_K20-Blood	Normal - blood derived	K20-Blood	WXS	['EGAS00001000676']	ssm_m.txt.gz																						male
+RECA-CN	China_0002_K38	ccRCC_K38-Tumor	Primary tumour - solid tissue	K38-Tumor	WXS	['EGAS00001000676']	ssm_m.txt.gz																	K38-Blood					female
+RECA-CN	China_0002_K38	ccRCC_K38-Blood	Normal - blood derived	K38-Blood	WXS	['EGAS00001000676']	ssm_m.txt.gz																						female
+RECA-CN	China_0002_K27	ccRCC_K27-Tumor	Primary tumour - solid tissue	K27-Tumor	WXS	['EGAS00001000676']	ssm_m.txt.gz																	K27-Blood					female
+RECA-CN	China_0002_K27	ccRCC_K27-Blood	Normal - blood derived	K27-Blood	WXS	['EGAS00001000676']	ssm_m.txt.gz																						female
+RECA-CN	China_0002_K1	ccRCC_K1-Tumor	Primary tumour - solid tissue	K1-Tumor	WXS	['EGAS00001000676']	ssm_m.txt.gz																	K1-Blood					male
+RECA-CN	China_0002_K1	ccRCC_K1-Blood	Normal - blood derived	K1-Blood	WXS	['EGAS00001000676']	ssm_m.txt.gz																						male
+RECA-CN	China_0002_K3	ccRCC_K3-Tumor	Primary tumour - solid tissue	K3-Tumor	WXS	['EGAS00001000676']	ssm_m.txt.gz																	K3-Blood					male
+RECA-CN	China_0002_K3	ccRCC_K3-Blood	Normal - blood derived	K3-Blood	WXS	['EGAS00001000676']	ssm_m.txt.gz																						male
+RECA-CN	China_0002_K31	ccRCC_K31-Tumor	Primary tumour - solid tissue	K31-Tumor	WXS	['EGAS00001000676']	ssm_m.txt.gz																	K31-Blood					male
+RECA-CN	China_0002_K31	ccRCC_K31-Blood	Normal - blood derived	K31-Blood	WXS	['EGAS00001000676']	ssm_m.txt.gz																						male
+RECA-CN	China_0002_K29	ccRCC_K29-Tumor	Primary tumour - solid tissue	K29-Tumor	WXS	['EGAS00001000676']	ssm_m.txt.gz																	K29-Blood					male
+RECA-CN	China_0002_K29	ccRCC_K29-Blood	Normal - blood derived	K29-Blood	WXS	['EGAS00001000676']	ssm_m.txt.gz																						male
+RECA-CN	China_0002_K32	ccRCC_K32-Tumor	Primary tumour - solid tissue	K32-Tumor	WXS	['EGAS00001000676']	ssm_m.txt.gz																	K32-Blood					female
+RECA-CN	China_0002_K32	ccRCC_K32-Blood	Normal - blood derived	K32-Blood	WXS	['EGAS00001000676']	ssm_m.txt.gz																						female
+RECA-CN	China_0002_K48	ccRCC_K48-Tumor	Primary tumour - solid tissue	K48-Tumor	WXS	['EGAS00001000676']	ssm_m.txt.gz																	K48-Blood					female
+RECA-CN	China_0002_K48	ccRCC_K48-Blood	Normal - blood derived	K48-Blood	WXS	['EGAS00001000676']	ssm_m.txt.gz																						female
